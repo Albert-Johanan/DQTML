@@ -1,0 +1,2 @@
+# DQTML
+Providing parking availability distribution information can effectively help drivers make more probability parking path choices and improve the success rate of induced parking in the intelligent parking system. However, most of the existing literature lacks the consideration of the uncertainty of parking availability information in a random environment. To address the issue, this paper developed a distribution prediction framework for vacant parking spaces (VPS) combining queuing theory (QT) and machine learning (ML), called DQTML.
